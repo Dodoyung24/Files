@@ -1,0 +1,4 @@
+﻿Slot1|Vegeta|4
+Slot2|Sung|3
+Slot3|Uryo|4
+Slot4|Luce|3
