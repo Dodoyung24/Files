@@ -1,0 +1,4 @@
+﻿Slot1|Nuke unit|12|3|0|4|1
+Slot2|Lancer|8|1|0|1|2
+Slot3|Uryu|12|3|0|1|1
+Slot4|Taka|12|1|0|1|1
