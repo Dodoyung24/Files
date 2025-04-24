@@ -1,4 +1,0 @@
-﻿Slot1|Sjw|12|3|0|1|1
-Slot2|lancer|12|3|0|1|1
-Slot3|Oryu|12|3|0|1|1
-Slot4|taka|12|1|0|1|1
